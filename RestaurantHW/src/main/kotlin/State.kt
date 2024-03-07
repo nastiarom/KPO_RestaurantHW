@@ -1,0 +1,1 @@
+class State(val menu:Menu, val cash:Int, var users:List<User> )
